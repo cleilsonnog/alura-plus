@@ -143,10 +143,6 @@ body {
 
 .lista__link a:hover {
     background-color: var(--botao-azul);
-    
+
 }
-/*.pai {
-    width: 588px;
-    height: 102px;
-    padding: 8% 0% 60% 4%;
-}/*
+
